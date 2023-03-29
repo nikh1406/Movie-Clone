@@ -12,3 +12,6 @@ Start Using This Command
 ```
 serve -s build
 ```
+preview 
+```
+https://movies-app2578.netlify.app/
