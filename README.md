@@ -15,3 +15,4 @@ serve -s build
 preview 
 ```
 https://movies-app2578.netlify.app/
+```
